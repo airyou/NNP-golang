@@ -12,4 +12,3 @@ func GetLastButOne(list []int) (int, error){
 	}
 	return list[l-2], nil
 }
-
